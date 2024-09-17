@@ -1,0 +1,7 @@
+/* latin */
+@font-face {
+  font-family: 'Proza Display';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://github.com/smart-soho/fonts/blob/main/ProzaDisplay-Bold.ttf) format('ttf');
+}
